@@ -11,6 +11,6 @@ Download link [here](http://grails.org/download.html).
 ```
 # Run app
 ```bash
-  cd grails3-herokuInit.git
+  cd grails3-herokuInit
   grails run-app
 ```
