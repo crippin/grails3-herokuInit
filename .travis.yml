@@ -1,0 +1,14 @@
+language: groovy
+jdk:
+- openjdk8
+sudo: false
+cache:
+  directories:
+  - "$HOME/.gradle"
+before_script:
+- rm -rf target
+script: "./travis-build.sh"
+deploy:
+  provider: releases
+  on:
+    all_branches: true
