@@ -1,4 +1,4 @@
-# *UntiteldGrailsWebApplication* 8-)
+# *UntiteldGrailsWebApplication* 😀
 [![Heroku App Status](http://heroku-shields.herokuapp.com/pure-plateau-92398)](https://pure-plateau-92398.herokuapp.com)
 
 ***
